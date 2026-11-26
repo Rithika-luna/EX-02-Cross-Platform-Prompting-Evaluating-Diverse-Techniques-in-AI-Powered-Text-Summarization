@@ -1,9 +1,9 @@
 # EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 
-## AIM
+## 1. AIM
 To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
 
-## Scenario:
+## 2. Scenario:
 You are part of a content curation team for an educational platform that delivers quick summaries of research papers to undergraduate students. Your task is to summarize a 500-word technical article on "The Basics of Blockchain Technology" using multiple AI platforms and prompting strategies.
 
 Your goal is to determine which combination of prompting technique + platform provides the best summary in terms of:
@@ -21,21 +21,7 @@ User experience
 ## Algorithm
 
 ``
-# EX.NO. 02 – CROSS-PLATFORM PROMPTING: EVALUATING DIVERSE TECHNIQUES IN AI-POWERED TEXT SUMMARIZATION
 
-## 1. AIM
-
-To evaluate and compare the effectiveness of different prompting techniques, namely Zero-Shot, Few-Shot, Chain-of-Thought, and Role-Based Prompting, across multiple AI platforms such as ChatGPT, Google Gemini, Claude, and Microsoft Copilot for summarizing a technical article on "The Basics of Blockchain Technology".
-
-The experiment evaluates the generated summaries based on accuracy, coherence, simplicity, speed, and user experience.
-
-## 2. SCENARIO
-
-An educational content curation team develops a platform that provides short summaries of technical research articles to undergraduate students.
-
-Students often find lengthy technical articles difficult to understand and revise. Therefore, the team uses AI-powered text summarization to convert technical information into short, meaningful, and easy-to-understand summaries.
-
-In this experiment, a technical article about blockchain technology is processed using four prompting techniques and multiple AI platforms. The generated summaries are compared to identify the most effective combination of prompting technique and AI platform.
 
 ## 3. INPUT ARTICLE – THE BASICS OF BLOCKCHAIN TECHNOLOGY
 
